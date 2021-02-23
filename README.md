@@ -34,11 +34,10 @@
 
 </details>
 
-<details>
   
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shayash22&show_icons=true&title_color=610D4D&icon_color=C949DC&text_color=440A5C&bg_color=F3D3E7" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shayash22&show_icons=true&title_color=610D4D&icon_color=C949DC&text_color=440A5C&bg_color=F3D3E7" />
 
-</details>
+
 
 [twitter]: https://twitter.com/ShayashJena
 [instagram]: https://instagram.com/shayash._.som
