@@ -47,4 +47,4 @@
 [linkedin]: https://www.linkedin.com/in/shayash-jena-087063183
 [facebook]: https://www.facebook.com/shayash.jena.22
 [codechef]: https://www.codechef.com/users/shayash2000
-[hackerrank]: https://www.codechef.com/users/shayash2000
+[hackerrank]: https://www.hackerrank.com/shayash2203
