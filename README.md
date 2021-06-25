@@ -1,4 +1,4 @@
-### Hi there, I'm Shayash Jena 
+<!-- ### Hi there, I'm Shayash Jena 
 
 - 🌱 I’m currently learning MERN Stack.
 - 👯 I’m looking to collaborate with other coders.
@@ -47,4 +47,4 @@
 [linkedin]: https://www.linkedin.com/in/shayash-jena-087063183
 [facebook]: https://www.facebook.com/shayash.jena.22
 [codechef]: https://www.codechef.com/users/shayash2000
-[hackerrank]: https://www.hackerrank.com/shayash2203
+[hackerrank]: https://www.hackerrank.com/shayash2203 -->
